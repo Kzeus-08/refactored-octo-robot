@@ -17,8 +17,9 @@ Enter attended classes: 27
 Record added successfully.
 
 Choose an option: 3
-ID    Name            Attended/Total   Percent
-101   Alice           27/30            90.00%
+ID	Name		Attended/Total	Percent
+--------------------------------------------------------
+101	Alice            27/30		90.00%
 
 Choose an option: 8
 Saved to attendance_data.csv
