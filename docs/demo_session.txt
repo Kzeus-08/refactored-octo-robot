@@ -1,0 +1,24 @@
+==== Attendance Management Menu ====
+1. Add record
+2. Remove record
+3. List records
+4. Search record by ID
+5. Update record
+6. Sort by name
+7. Sort by attendance percentage (high to low)
+8. Save to file
+9. Load from file
+0. Exit
+Choose an option: 1
+Enter ID: 101
+Enter name: Alice
+Enter total classes: 30
+Enter attended classes: 27
+Record added successfully.
+
+Choose an option: 3
+ID    Name            Attended/Total   Percent
+101   Alice           27/30            90.00%
+
+Choose an option: 8
+Saved to attendance_data.csv

@@ -56,3 +56,4 @@ When the app runs, choose from:
 
 - Source code is modular and documented with inline comments.
 - Input validation is included for invalid totals, duplicate IDs, and malformed input.
+- A sample run transcript is available at `docs/demo_session.txt`.
